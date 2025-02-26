@@ -1,5 +1,7 @@
 # Python_Assignment
+
 #Run the script: python assignment.py
+
 #Expected Terminal Output: Data successfully saved to output.json
 #  Common Errors & Fixes
 Error	                Solution
